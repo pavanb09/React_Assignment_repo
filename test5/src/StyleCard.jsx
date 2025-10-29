@@ -10,7 +10,7 @@ export default function StyleCard(){
 
                     <div className='card' key={index}>
                         <h2>{item.name}</h2>
-                        <p>{item.price}</p>
+                        <p>RS.{item.price}</p>
                         <p>{item.description}</p>
                     </div>
                 ))

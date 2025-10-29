@@ -3,6 +3,7 @@ export default function MediaGallery(){
     return(
 
         <div className="container">
+            <h1>ES6 Imports(public)</h1>
             <div  className="v-container">
             <video controls>
                 <source src = 'video.mp4'></source>
@@ -11,7 +12,7 @@ export default function MediaGallery(){
 
 
             <audio controls>
-                <source src = "./Singari.mp3.mp4"></source>
+                <source src = "Singari.mp3.mp4"></source>
             </audio>
             <br />
 
