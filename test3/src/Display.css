@@ -1,0 +1,26 @@
+.cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
+.card{
+    text-align: center;
+    font-size: 1.2rem;
+    height: 300px;
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid;
+    background-color: aliceblue;
+}
+
+img{
+    width: 80%;
+}

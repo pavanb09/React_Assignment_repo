@@ -1,0 +1,24 @@
+{
+    "products" :[
+        {
+            "name" : "Laptop",
+            "price" : "57000",
+            "description" : "High performance and good build quality"
+        },
+        {
+            "name" : "Tablest",
+            "price" : "40000",
+            "description" : "Big Scren , High performance and good build quality"
+        },
+        {
+            "name" : "Washing Machine",
+            "price" : "20000",
+            "description" : "electric motors with auto cleaning"
+        },
+        {
+            "name" : "Mobile",
+            "price" : "15000",
+            "description" : "Gaming and camera mobile"
+        }
+    ]
+}

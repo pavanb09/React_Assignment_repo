@@ -1,0 +1,13 @@
+.cards{
+    background-color: aliceblue;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.card{
+    background-color: antiquewhite;
+    border: 1px solid;
+    border-radius: 9px;
+    box-shadow: inset;
+    text-align: center;
+}
